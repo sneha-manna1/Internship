@@ -6,6 +6,6 @@ function Check(a) {
             countEven++;
         }
     }
-    console.log(`Total Even Numbers Greater Than 50 : ${countEven}`);
+    console.log(`Total Even Numbers Greater Than 50 in This Array : ${countEven}`);
 }
 module.exports = {Check};

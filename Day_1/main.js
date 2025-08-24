@@ -91,3 +91,28 @@
 // const Program = require('./src/25_Check_Array_Even.js');
 // const n = [4,6,8,10,12,14];
 // Program.Check(n);
+
+
+// const Program = require('./src/26.Check_All_Prime_Array.js');
+// const n =[2,1,4,6,3,8,9];
+// Program.Check(n);
+
+
+// const Program = require('./src/27.Separate_Odd_Even.js');
+// const n =[2,1,4,6,3,8,9];
+// Program.Check(n);
+
+
+// const Program = require('./src/28.Count_Even_Array.js');
+// const n = [2,6,30,50,70,78,68,80];
+// Program.Check(n);
+
+
+// const Program = require('./src/29.Print_Prime_Array.js');
+// const n = [2,3,4,5,6,7,8,9];
+// Program.Check(n);
+
+
+// const Program = require('./src/30.Average_Odd_Even.js');
+// const n = [2,4,3,5,6,7,8,9];
+// Program.Check(n);
